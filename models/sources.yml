@@ -1,0 +1,13 @@
+sources:
+  - name: snowflake_source_layer 
+    database: learning_db
+    schema: source
+    description: "This is a one of source in my DBT project"
+    tables:
+      - name: customers
+        description: "Contains Customer Data"
+      - name: products
+        description: "Contains Product Data"
+
+      - name: orders
+        description: "Contains Orders Data"

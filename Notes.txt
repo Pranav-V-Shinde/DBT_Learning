@@ -1,0 +1,4 @@
+
+staging - Basic Transformations like renaiming , selective cols and basic calculations
+intermediate - Joins , Group By
+marts - Business Ready Tables using the intermediate layer.
